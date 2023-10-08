@@ -10,6 +10,9 @@
 <body>
     <center>
         <h1>ทดสอบระบบ</h1>
+        <?php
+        echo 'peerapat';
+        ?>
     </center>
 </body>
 
