@@ -12,6 +12,7 @@
         <h1>ทดสอบระบบ</h1>
         <?php
         echo 'peerapat456';
+        echo 'top2';
         ?>
     </center>
 </body>
